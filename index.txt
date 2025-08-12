@@ -1,0 +1,10 @@
+<!DOCTYPE html
+<html>
+<head>
+    <title>KALS Class project</title>
+</head>
+<boby>
+    <h1>I am Mr AKA!</h1>
+         <p> This is my First Git Collaboratinds Test.</p> 
+</body>
+</html>
